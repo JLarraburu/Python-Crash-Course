@@ -1,0 +1,10 @@
+Maybe my git notes here?
+maybe a script or somethin nice
+
+also check the Try It Yourself sections for stuff
+    -   Page 186    - Python module of the week
+         -   http://pymotw.com/
+
+ Before starting Part 2
+     Re-organize Part 1 folder structure.
+https://github.com/ehmatthes/pcc
